@@ -12,6 +12,6 @@
     conda install opencv
 4) Установить Keras:
     conda install keras
-5) Если есть подходящая видеокарта (NVidia with Cuda capability >= 3.5), утсановить tensorflow для GPU:
+5) Если есть подходящая видеокарта (NVidia with Cuda capability >= 3.5), установить tensorflow для GPU:
     conda install tensorflow-gpu
 6) Можно запускать примеры.
